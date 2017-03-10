@@ -62,7 +62,7 @@ header h1{
 header{
 	height: 650px;
 	width: 100%;
-	background-image: url("file:///C:/Users/kaldramo/Desktop/projects/kotvata/resourses/headerBackground.jpg");
+	background-image: url("https://raw.githubusercontent.com/martinkaldramov/kotvata/master/resourses/headerBackground.jpg");
 	background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
